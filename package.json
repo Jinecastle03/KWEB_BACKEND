@@ -1,0 +1,23 @@
+{
+  "name": "kweb_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinecastle03/KWEB_BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinecastle03/KWEB_BACKEND/issues"
+  },
+  "homepage": "https://github.com/Jinecastle03/KWEB_BACKEND#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
